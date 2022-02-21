@@ -7,11 +7,11 @@
 	height:100vh;
 	padding:100px;
 	overflow:hidden;
-	background-color:black;
+	background-color:lightblue;
 }
 
 button {
-	background-color:red;
+	background-color:white;
 	padding:8px 10px;
 	border:none;
 	outline:gray;
