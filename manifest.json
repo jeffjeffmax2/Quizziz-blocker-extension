@@ -15,9 +15,7 @@
   "permissions": [
     "activeTab",
     "tabs",
-    "https://quizizz.com/*",
-    "https://joinmyquiz.com/*",
-    "https://quizizz.com/admin/*",
+    "https://quizizz.com/*"
   ],
   "background": {
     "scripts": ["buttonFunction.js"],
