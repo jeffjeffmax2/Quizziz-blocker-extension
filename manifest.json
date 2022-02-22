@@ -16,7 +16,8 @@
     "activeTab",
     "tabs",
     "https://quizizz.com/*",
-    "https://joinmyquiz.com/*"
+    "https://joinmyquiz.com/*",
+    "https://quizizz.com/admin/*",
   ],
   "background": {
     "scripts": ["buttonFunction.js"],
@@ -28,6 +29,7 @@
       "matches": ["https://quizizz.com/join/*"],
       "matches": ["https://quizizz.com/join/game/*"],
       "matches": ["https://joinmyquiz.com/*"],
+      "matches": ["https://quizizz.com/admin/*"],
       "css": ["custom-styles.css"],
       "js": ["showShameMessage.js"],
       "run_at": "document_end"
